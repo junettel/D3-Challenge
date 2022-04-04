@@ -1,5 +1,5 @@
 # D3-Challenge
-D3 Homework - Data Journalism and D3
+Data Journalism and D3
 
 # Deployment Link
 **[https://junettel.github.io/D3-Challenge/D3_data_journalism/](https://junettel.github.io/D3-Challenge/D3_data_journalism/)**
